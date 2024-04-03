@@ -1,5 +1,5 @@
 ### Hello, I'm Lucas 👋
-I am a software engineer from Brazil. I enjoy solving problems with technology.
+I am a software engineer from Brazil. I really enjoy solving problems with technology.
 
 **About me**
 

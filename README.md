@@ -20,4 +20,4 @@ I am a software engineer from Brazil. I enjoy solving problems with technology.
 ![lucaohost's Streak](https://github-readme-streak-stats.herokuapp.com/?user=lucaohost&theme=dark&hide_border=true&hide_title=true&card_width=500) 
 
 ## 🔝 Top Languages
-![lucaohost's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lucaohost&theme=dark&langs_count=10&layout=compact&hide_border=true&card_width=500&hide_title=true)
+![lucaohost's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lucaohost&theme=dark&langs_count=100&layout=compact&hide_border=true&card_width=500&hide_title=true)

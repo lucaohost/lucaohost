@@ -6,7 +6,7 @@ I am a software engineer from Brazil. I really enjoy solving problems with techn
 - 💼 Software Engineer at [Philips](https://www.linkedin.com/company/philips/).
 - 📓 Studying Software Development since 2016.
 - 💻 Working in the area since 2017.
-- 👨‍🎓 Graduated in Systems Analysis and Development and Post Graduated in Distributed Software Architecture.
+- 👨‍🎓 Graduated in Systems Analysis and Development, and Post Graduated in Distributed Software Architecture.
 
 ## 👨‍💻 Top Techs
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)

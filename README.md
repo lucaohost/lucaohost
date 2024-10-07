@@ -3,7 +3,7 @@ I am a software engineer from Brazil and I really enjoy solving problems with te
 
 **About me**
 
-- 💼 Software Engineer at [Ifood](https://www.linkedin.com/company/ifood-/).
+- 💼 Software Engineer at [iFood](https://www.linkedin.com/company/ifood-/).
 - 📓 Studying Software Development since 2016.
 - 💻 Working in the area since 2017.
 - 👨‍🎓 Graduated in Systems Analysis and Development. Post Graduated in Distributed Software Architecture.

@@ -6,7 +6,7 @@ I am a software engineer from Brasil and I really enjoy solving problems with te
 - 💼 Software Engineer at [iFood](https://www.linkedin.com/company/ifood-/)
 - 💻 Working in the area since 2017
 - 👨‍🎓 Graduated in Systems Analysis and Development
-- 📖 Post Graduated in Software Architecture
+- 📖 Post Graduated in Distributed Software Architecture
 - 🕸️ https://lucaohost.github.io/
 
 ## 👨‍💻 Top Techs

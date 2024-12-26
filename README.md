@@ -3,10 +3,9 @@ I am a software engineer from Brasil and I really enjoy solving problems with te
 
 **About me**
 
-- 💼 Software Engineer at [iFood](https://www.linkedin.com/company/ifood-/)
-- 💻 Working in the area since 2017
-- 👨‍🎓 Graduated in Systems Analysis and Development
-- 📖 Post Graduated in Distributed Software Architecture
+- 💼 Senior Software Engineer
+- 💻 Programming since 2016
+- 👨‍🎓 Post Graduated in Distributed Software Architecture
 - 🕸️ https://lucaohost.github.io/
 
 ### Stats 📊
